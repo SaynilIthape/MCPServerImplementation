@@ -1,0 +1,6 @@
+@MCPImplementation_HostAddress = http://localhost:5287
+
+GET {{MCPImplementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
